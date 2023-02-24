@@ -1,5 +1,5 @@
-import React from 'react';
-import './header.css';
+import React from "react";
+import "./header.css";
 // import CTA from "./CTA";
 // import ME from "../../assets/me.png";
 import HeaderSocial from "./HeaderSocials";
@@ -25,4 +25,4 @@ const Header = () => {
   )
 }
 
-export default Header
+export default Header;
