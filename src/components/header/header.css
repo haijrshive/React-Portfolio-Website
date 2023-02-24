@@ -5,6 +5,7 @@ header {
 }
 
 .header__container {
+    color: rgb(237, 61, 246);
     text-align: center;
     height: 100%;
     position: relative;
