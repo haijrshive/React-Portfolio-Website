@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-// import ME from "../../assets/me-about.jpg";
+// import ME from "../../assets/me-about.jpeg";
 import {TbMilitaryAward, TbUsers} from "react-icons/tb";
 import {VscFolderOpened} from "react-icons/vsc";
 
@@ -13,7 +13,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            {/* <img src={ME} alt='About Image' /> */}
+            {/* <img src={ME} alt='Me' /> */}
           </div>
         </div>
 
