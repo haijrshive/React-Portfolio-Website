@@ -22,19 +22,19 @@ const About = () => {
             <article className='about__card'>
               <TbMilitaryAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>2+ Years Coding</small>
             </article>
 
             <article className='about__card'>
               <TbUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>Immersed Cyber Security</small>
+              <h5>Languages</h5>
+              <small>React, Javascript, HTML5, CSS3</small>
             </article>
 
             <article className='about__card'>
               <VscFolderOpened className='about__icon'/>
-              <h5>Projects</h5>
-              <small>10+ Completed Projects</small>
+              <h5>Hobbies</h5>
+              <small>Snowboarding, Jiujitsu, Surfing</small>
             </article>
           </div>
 
