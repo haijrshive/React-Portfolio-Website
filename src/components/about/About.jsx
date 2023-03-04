@@ -39,7 +39,7 @@ const About = () => {
           </div>
 
           <p>
-            Hello world! dolor sit amet consectetur, adipisicing elit. Dolorum pariatur eos facilis ut maxime in odit aperiam error, aliquid quibusdam, ea voluptatum est porro vel! Excepturi soluta iure reprehenderit ratione!
+            Hello world! My name is Hai and welcome to my portolio site! Throughout my professional career, I have earned the title of United States Marine, college graduate, and Las Vegas Nightlife Bartender. However, in 2020 the world changed and so did I. It was during quarantine when I decided to finally pursue my dream of learning how to code. 
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
