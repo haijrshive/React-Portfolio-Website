@@ -10,6 +10,8 @@ const sendEmail = (e) => {
   e.preventdefault();
   
   emailjs.sendForm('service_l2nl00p', 'template_cr2s4c4', form.current, 'YOUR_USER_ID')
+
+  e.target.reset()
 };
 
   return (
