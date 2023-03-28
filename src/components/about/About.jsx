@@ -42,7 +42,7 @@ const About = () => {
             Hello world! My name is Hai and welcome to my portolio site! Throughout my professional career, I have traversed many fields as well as earned the titles of United States Marine, kinesiologist and Las Vegas Nightlife Bartender. I began my journey into coding and software development in 2020 during quarantine. I am an avid snowboarder, a jiujitsu black belt and frenchie papa.
           </p>
 
-          <a href='#contact' className='btn btn-primary'>Let's Talk</a>
+          <a href='#contact' className='btn btn-primary'>Let's Chat</a>
         </div>
       </div>
     </section>
