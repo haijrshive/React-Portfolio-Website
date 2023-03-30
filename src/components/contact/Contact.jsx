@@ -30,8 +30,8 @@ const sendEmail = (e) => {
         </div>
         {/* END OF CONTACT OPTIONS */}
         <form ref={form} onSubmit={sendEmail}>
-          <input type="text" name="name" placeholder="Full Name" required />
-          <input type="email" name="email" placeholder="Email Address" required />
+          <input type="text" name="name" placeholder="Enter Full Name" required />
+          <input type="email" name="email" placeholder="Enter Email Address" required />
           <textarea name="message" rows="7" placeholder="Enter Your Message" required ></textarea>
           <button type="submit" className="btn btn-primary">Send Message</button>
         </form>
