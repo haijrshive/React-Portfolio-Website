@@ -34,7 +34,7 @@ const About = () => {
             <article className='about__card'>
               <VscFolderOpened className='about__icon'/>
               <h5>Hobbies</h5>
-              <small>Snowboarding, Jiujitsu, Surfing, Hunter x Hunter</small>
+              <small>Snowboarding, Jiujitsu, Surfing, Anime</small>
             </article>
           </div>
 
