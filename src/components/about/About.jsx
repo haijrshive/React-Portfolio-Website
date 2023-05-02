@@ -28,7 +28,7 @@ const About = () => {
             <article className='about__card'>
               <TbUsers className='about__icon'/>
               <h5>Languages</h5>
-              <small>React, Javascript, HTML5, CSS3</small>
+              <small>React, Javascript, HTML5, CSS3, SQL</small>
             </article>
 
             <article className='about__card'>
